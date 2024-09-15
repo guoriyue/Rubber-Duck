@@ -8,3 +8,4 @@ Squish your 3D rubber duck, perfect for stress relief and a bit of rubber duck d
 
 ### Download
 
+![Release](https://github.com/guoriyue/Rubber-Duck/releases/tag/v0.1.0)
