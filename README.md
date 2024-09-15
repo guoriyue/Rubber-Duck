@@ -4,4 +4,7 @@ Squish your 3D rubber duck, perfect for stress relief and a bit of rubber duck d
 
 ### Demo Video
 
-[Watch the demo video](Demo_Duck.mp4)
+<video width="600" controls>
+  <source src="Demo_Duck.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
